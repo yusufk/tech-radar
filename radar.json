@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GitHub Copilot Chat",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "GitHub Copilot Chat is a GitHub add-on that allows you to chat with GitHub Copilot, like a pair programmer."
+  },
+  {
+    "name": "Streamlit",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science."
+  },
+  {
+    "name": "Elixir",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications."
+  },
+  {
+    "name": "Static Web Apps",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Static Web Apps using react or plain html/css/js ofter a cost effective way to build web apps as they are cheap / free to host and can be built using a variety of tools."
+  }
+]
