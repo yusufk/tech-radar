@@ -16,10 +16,10 @@
     "quality": "npm run lint-prettier:check && npm run test:coverage",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Thoughtworks",
+  "author": "Yusuf Kaka",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thoughtworks/build-your-own-radar"
+    "url": "https://github.com/yusufk/tech-radar"
   },
   "keywords": [
     "tech-radar"

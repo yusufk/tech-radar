@@ -395,7 +395,7 @@ function renderRadarLegends(radarElement) {
 
   const newImage = legendsContainer
     .append('img')
-    .attr('src', '/images/new.svg')
+    .attr('src', 'images/new.svg')
     .attr('width', '37px')
     .attr('height', '37px')
     .attr('alt', 'new blip legend icon')
@@ -403,7 +403,7 @@ function renderRadarLegends(radarElement) {
 
   const existingImage = legendsContainer
     .append('img')
-    .attr('src', '/images/existing.svg')
+    .attr('src', 'images/existing.svg')
     .attr('width', '37px')
     .attr('height', '37px')
     .attr('alt', 'existing blip legend icon')
